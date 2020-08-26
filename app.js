@@ -1,1 +1,1 @@
-console.log('wlcome from js file');
+console.log('welcome from js file');
